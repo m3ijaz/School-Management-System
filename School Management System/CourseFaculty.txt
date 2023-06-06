@@ -1,0 +1,8 @@
+Course{courseName=cse20, courseCode=cs, teacherName=Fahim, teacherInitial=cs}
+Course{courseName=bba, courseCode=bs, teacherName=Abir, teacherInitial=ba}
+Course{courseName=css, courseCode=ca, teacherName=Hamid, teacherInitial=cs}
+
+Course{courseName=Math2, courseCode=math225, teacherName=Fahim, teacherInitial=ent}
+Course{courseName=Physics2, courseCode=phy2536, teacherName=Abir, teacherInitial=ent}
+Course{courseName=DM, courseCode=d2250, teacherName=Hamid, teacherInitial=et}
+

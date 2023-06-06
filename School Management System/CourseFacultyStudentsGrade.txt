@@ -1,0 +1,12 @@
+Student_Info{studentName=ijaz, studentId=2046352, studentMoblile=02535222} 
+Course{courseName=cse20, courseCode=cs, teacherName=Fahim, teacherInitial=cs | GRADE : A}
+Course{courseName=bba, courseCode=bs, teacherName=Abir, teacherInitial=ba | GRADE : A}
+Course{courseName=css, courseCode=ca, teacherName=Hamid, teacherInitial=cs | GRADE : A+}
+--------
+
+Student_Info{studentName=IJAZ, studentId=5624343, studentMoblile=01740006873} 
+Course{courseName=Math2, courseCode=math225, teacherName=Hasib, teacherInitial=ent | GRADE : A+}
+Course{courseName=Physics2, courseCode=phy2536, teacherName=Sazzad, teacherInitial=ent | GRADE : A}
+Course{courseName=DM, courseCode=d2250, teacherName=Rifat, teacherInitial=et | GRADE : A}
+--------
+
